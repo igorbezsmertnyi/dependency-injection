@@ -1,0 +1,25 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "description": "Typescript dependency injection",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorbezsmertnyi/dependency-injection.git"
+  },
+  "author": "Igor Bezsmertnyi <bezsmertnyi.igor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorbezsmertnyi/dependency-injection/issues"
+  },
+  "homepage": "https://github.com/igorbezsmertnyi/dependency-injection#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
